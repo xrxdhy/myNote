@@ -107,7 +107,7 @@ I get 10 times more traffic from [Google] [1] than from
 
 图片语法：
 ----------------------
-![Alt text](/home/yhd/002.jpg)
+![Alt text](./002.jpg)
 
 
 
